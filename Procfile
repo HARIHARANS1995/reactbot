@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n reactbot
+web: bin/hubot -a irc -n reactbotx
