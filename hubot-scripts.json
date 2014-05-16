@@ -7,5 +7,6 @@
   "go-for-it.coffee",
   "gob.coffee",
   "redis-brain.coffee",
-  "shipit.coffee"
+  "shipit.coffee",
+  "wordnik.coffee"
 ]
